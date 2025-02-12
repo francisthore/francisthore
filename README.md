@@ -9,7 +9,7 @@
 👋 **Hello, World!** I'm **Francis Thore**, a passionate **Software Engineer** and **DevOps Enthusiast** with expertise in **backend development, API design, and cloud infrastructure**. My journey began with the **ALX Software Engineering Program**, where I honed my skills in **Python, FastAPI, Docker, and cloud technologies**. I love building scalable, secure, and high-performance systems. 🚀
 
 - 🔥 Passionate about **Backend Technologies, API Development, and DevOps**.
-- 🛠️ Proficient in **Python, FastAPI, Docker, Kubernetes, Terraform, AWS, CI/CD**.
+- 🛠️ Proficient in **Python, FastAPI, Docker, AWS, CI/CD**.
 - 🎯 Strong advocate for **automation, microservices, and cloud-native development**.
 - 💡 Constantly learning and contributing to **open-source projects**.
 
@@ -20,9 +20,7 @@
   <img src="https://img.shields.io/badge/Python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
@@ -55,7 +53,7 @@ Here are some of the **exciting projects** I've worked on:
   <a href="https://www.linkedin.com/in/francisthore">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:thorefrancis@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/francisthore">
